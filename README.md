@@ -22,7 +22,7 @@ The data is ~3.5k tweets that have been labelled into 16 different categories de
 - Emergency
 - False public health response
 
-The goal is to build a classifier to identify tweet misinformation around Covid-19 using NLP techniques. This required use of the `re`, `nltk`, and `nrclex` packages, as well as `sklearn` and `imblearn` for modelling.
+The goal was to build a classifier to identify tweet misinformation around Covid-19 using NLP techniques. This required use of the `re`, `nltk`, and `nrclex` packages, as well as `sklearn` and `imblearn` for modelling.
 
 ### Features
 - EDA and Visualisation
