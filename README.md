@@ -43,7 +43,7 @@ The goal is to build a classifier to identify tweet misinformation around Covid-
 
 ## Summary
 1. The data was explored, cleaned, and tokenized, removing stopwords and normalising the tweets.
-2. Simple metrics were derived, before POS tagging and analysis.
+2. Simple metrics were derived using RegEx, before POS tagging and analysis.
 3. Sentiment analysis was conducted using VADER for affect and NRCLex for emotion.
 4. Features were engineered and the data split and oversampled to address class imbalance.
 5. The classification modelling used combinations of Count/Tfidf Vectorizer with Naive Bayes/Logistic Regression.
